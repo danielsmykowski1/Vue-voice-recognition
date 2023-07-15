@@ -10,7 +10,7 @@ import CommunityIcon from './icons/IconCommunity.vue'
       <template #icon>
         <CommunityIcon />
       </template>
-      <template #heading>Say something</template>
+      <template #heading>Hi eDist, Say something</template>
 
       <VoiceRecognition />
     </WelcomeItem>
